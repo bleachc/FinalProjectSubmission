@@ -1,0 +1,5 @@
+obj
+data
+*.json
+bin
+.vscode
